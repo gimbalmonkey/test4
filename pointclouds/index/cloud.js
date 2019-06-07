@@ -1,7 +1,7 @@
 {
     "version": "1.7",
     "octreeDir": "data",
-    "projection": "",
+    "projection": "+proj=utm +zone=10 +ellps=GRS80 +datum=NAD83 +units=m +no_defs",
     "points": 2477571,
     "boundingBox": {
         "lx": 474647.9,
